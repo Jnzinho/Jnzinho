@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS (Will start learning React Native soon), C and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jnzinho?tab=repositories](https://github.com/Jnzinho?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/Jnzinho?tab=repositories](https://github.com/Jnzinho?tab=repositories)
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **joaovitorcastrogg@gmail.com**
+- 📫 How to reach me: **joaovitorcastrogg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
