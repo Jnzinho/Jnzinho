@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="350" style="margin-left: 5" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently studying on **UnoChapecó, freeCodeCamp, Harvard's CS50 and W3Schools**
+- 🔭 I’m currently studying on **UnoChapecó, freeCodeCamp and Udemy!**
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS (Will start learning React soon), C and C++**
 
