@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying on **UnoChapecó, freeCodeCamp and Udemy!**
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS (Will start learning React soon), C and C++**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, NODE, C and C++**
 
 - 👨‍💻 Some of my projects are available in [my repositories](https://github.com/Jnzinho?tab=repositories)
 
