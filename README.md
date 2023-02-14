@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I prefer tea over coffee 🍵  
+- ⚡ Fun fact: I prefer tea to coffee 🍵  
   
 
 <br/>  
