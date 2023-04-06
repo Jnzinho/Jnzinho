@@ -4,7 +4,7 @@
   
 <br />  
 
-### <div align="center">I'm João, a future full-stack web developer 👨‍💻 with a special passion in front-end development 🎨</div>  
+### <div align="center">I'm João, a future web developer 👨‍💻 with a special passion in front-end development 🎨</div>  
 
 <br />
   
