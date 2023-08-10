@@ -1,10 +1,6 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/110572346/203635606-7403a717-7da9-4b17-8373-799beeda9847.png" align="center" style="width: 100%" />
-</div>  
-  
 <br />  
 
-### <div align="center">I'm João, a future web developer 👨‍💻 with a special passion in front-end development 🎨</div>  
+### <div align="center">I'm João, a web developer 👨‍💻 with a special passion in front-end development 🎨</div>  
 
 <br />
   
