@@ -5,10 +5,10 @@
 <br />
   
 
-- 🔭 I’m currently working as a trainee on [Gamatec](https://www.linkedin.com/company/gamatec-com-br/mycompany/)  
+- 🔭 I’m currently working as a web developer on [Gamatec](https://www.linkedin.com/company/gamatec-com-br/mycompany/)  
   
 
-- 🌱 I’m currently learning [React](https://reactjs.org/), [Node](https://nodejs.org/en/) and [Express](https://expressjs.com/)  
+- 🌱 I’m currently using [React](https://reactjs.org/), [Node](https://nodejs.org/en/) and [Express](https://expressjs.com/)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
