@@ -4,8 +4,11 @@
 
 <br />
   
-
-- 🔭 I’m currently working as a web developer on [Gamatec](https://www.linkedin.com/company/gamatec-com-br/mycompany/)  
+  
+- 🔭 I’m currently working as a web developer on [Gamatec](https://www.linkedin.com/company/gamatec-com-br/mycompany/)
+  
+  
+- ⚠️ My company currently doesn't use GitHub, instead, we use ![Gogs](https://gogs.io/).
   
 
 - 🌱 I’m currently using [React](https://reactjs.org/), [Node](https://nodejs.org/en/) and [Express](https://expressjs.com/)  
@@ -14,8 +17,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I prefer tea to coffee 🍵  
-  
+- ⚡ Fun fact: I prefer tea to coffee 🍵
 
 <br/>  
 
