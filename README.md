@@ -1,6 +1,6 @@
 <br />  
 
-### <div align="center">I'm João, a web developer 👨‍💻 with a special passion in front-end development 🎨</div>  
+## <div align="center">I'm João, a web developer 👨‍💻 with a special passion for bleeding edge technologies 🚀</div>  
 
 <br />
   
