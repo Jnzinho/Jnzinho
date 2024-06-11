@@ -11,10 +11,10 @@
 - ⚠️ My company currently doesn't use GitHub, instead, we use ![Gogs](https://gogs.io/).
   
 
-- 🌱 I’m currently using [React](https://reactjs.org/), [Node](https://nodejs.org/en/) and [Express](https://expressjs.com/)  
+- 🌱 I’m currently using Typescript, [React](https://reactjs.org/),[Node](https://nodejs.org/en/) and [Express](https://expressjs.com/)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to PERN stack and related technologies  
   
 
 - ⚡ Fun fact: I prefer tea to coffee 🍵
