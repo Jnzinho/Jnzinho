@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gamatec<br><br>🌱 I’m currently learning NextJS with Drizzle (t3 stack)<br><br>💬 Ask me about anything related to web dev<br><br>📫 How to reach me joaovitorcastrogg@gmail.com<br><br>📄 Know about my professional experiences https://www.linkedin.com/in/joaovitorjn/<br><br>⚡ Fun fact I would take tea over coffee any day!
+🔭 I’m currently working on Gamatec<br><br>💬 Ask me about anything related to web dev<br><br>📫 How to reach me joaovitorcastrogg@gmail.com<br><br>📄 Know about my professional experiences https://www.linkedin.com/in/joaovitorjn/<br><br>⚡ Fun fact I would take tea over coffee any day!
 
 
 ## 🌐 Socials:
