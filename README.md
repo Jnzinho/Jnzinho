@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">✨ Developing since 2022<br>📚 I'm currently at semester 6/8 in a computer science degree at Unochapecó<br>🌐 I speak fluent English and Portuguese</p>
+<p align="left">✨ Developing since 2022<br>📚 I'm currently at semester 7/8 in a computer science degree at Unochapecó<br>🌐 I speak fluent English and Portuguese</p>
 
 ###
 
