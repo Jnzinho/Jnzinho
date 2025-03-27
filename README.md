@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is João and I'm a passionate web developer, from Brazil. I really enjoy learning new technologies and developing beautiful and accessible software. You can find me at:</p>
+<p align="left">My name is João. I really enjoy learning new technologies and developing beautiful and accessible software. You can find me at:</p>
 
 ###
 
