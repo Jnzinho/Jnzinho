@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/PknTpML.png" width="100%" alt="Banner Image" />
-</div>
+[//]:<> (<div align="center"><img src="https://i.imgur.com/PknTpML.png" width="100%" alt="Banner Image" /></div>)
 
 ###
 
