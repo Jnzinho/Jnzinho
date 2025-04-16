@@ -1,7 +1,7 @@
 # 👋 Hey, I'm João
 
-I'm a web and mobile developer from Chapecó, Brazil. I like building things that people actually use — clear, responsive, and easy to maintain.
+I'm a web and mobile developer from Chapecó, Brazil, building things people actually use — clear, responsive, and easy to maintain. I've been working across the stack since early 2022.
 
-I work across the stack with tools like React, Node.js, Expo, TypeScript and tons of tools, i enjoy figuring out how everything fits together.
+I use tools like React, Node.js, Expo, TypeScript and more, and enjoy figuring out how everything fits together.
 
 More at 👉 [jn-dev.com](https://jn-dev.com)
